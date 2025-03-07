@@ -1,0 +1,50 @@
+{
+  "01": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES"
+  },
+  "02": {
+    "field_of_education_broad_code": "02",
+    "field_of_education_broad_name": "INFORMATION TECHNOLOGY"
+  },
+  "03": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES"
+  },
+  "04": {
+    "field_of_education_broad_code": "04",
+    "field_of_education_broad_name": "ARCHITECTURE AND BUILDING"
+  },
+  "05": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES"
+  },
+  "06": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH"
+  },
+  "07": {
+    "field_of_education_broad_code": "07",
+    "field_of_education_broad_name": "EDUCATION"
+  },
+  "08": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE"
+  },
+  "09": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE"
+  },
+  "10": {
+    "field_of_education_broad_code": "10",
+    "field_of_education_broad_name": "CREATIVE ARTS"
+  },
+  "11": {
+    "field_of_education_broad_code": "11",
+    "field_of_education_broad_name": "FOOD, HOSPITALITY AND PERSONAL SERVICES"
+  },
+  "12": {
+    "field_of_education_broad_code": "12",
+    "field_of_education_broad_name": "MIXED FIELD PROGRAMMES"
+  }
+}

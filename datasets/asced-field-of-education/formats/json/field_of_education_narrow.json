@@ -1,0 +1,428 @@
+{
+  "0101": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES",
+    "field_of_education_narrow_code": "0101",
+    "field_of_education_narrow_name": "Mathematical Sciences"
+  },
+  "0103": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES",
+    "field_of_education_narrow_code": "0103",
+    "field_of_education_narrow_name": "Physics and Astronomy"
+  },
+  "0105": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES",
+    "field_of_education_narrow_code": "0105",
+    "field_of_education_narrow_name": "Chemical Sciences"
+  },
+  "0107": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES",
+    "field_of_education_narrow_code": "0107",
+    "field_of_education_narrow_name": "Earth Sciences"
+  },
+  "0109": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES",
+    "field_of_education_narrow_code": "0109",
+    "field_of_education_narrow_name": "Biological Sciences"
+  },
+  "0199": {
+    "field_of_education_broad_code": "01",
+    "field_of_education_broad_name": "NATURAL AND PHYSICAL SCIENCES",
+    "field_of_education_narrow_code": "0199",
+    "field_of_education_narrow_name": "Other Natural and Physical Sciences"
+  },
+  "0201": {
+    "field_of_education_broad_code": "02",
+    "field_of_education_broad_name": "INFORMATION TECHNOLOGY",
+    "field_of_education_narrow_code": "0201",
+    "field_of_education_narrow_name": "Computer Science"
+  },
+  "0203": {
+    "field_of_education_broad_code": "02",
+    "field_of_education_broad_name": "INFORMATION TECHNOLOGY",
+    "field_of_education_narrow_code": "0203",
+    "field_of_education_narrow_name": "Information Systems"
+  },
+  "0299": {
+    "field_of_education_broad_code": "02",
+    "field_of_education_broad_name": "INFORMATION TECHNOLOGY",
+    "field_of_education_narrow_code": "0299",
+    "field_of_education_narrow_name": "Other Information Technology"
+  },
+  "0301": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0301",
+    "field_of_education_narrow_name": "Manufacturing Engineering and Technology"
+  },
+  "0303": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0303",
+    "field_of_education_narrow_name": "Process and Resources Engineering"
+  },
+  "0305": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0305",
+    "field_of_education_narrow_name": "Automotive Engineering and Technology"
+  },
+  "0307": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0307",
+    "field_of_education_narrow_name": "Mechanical and Industrial Engineering and Technology"
+  },
+  "0309": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0309",
+    "field_of_education_narrow_name": "Civil Engineering"
+  },
+  "0311": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0311",
+    "field_of_education_narrow_name": "Geomatic Engineering"
+  },
+  "0313": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0313",
+    "field_of_education_narrow_name": "Electrical and Electronic Engineering and Technology"
+  },
+  "0315": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0315",
+    "field_of_education_narrow_name": "Aerospace Engineering and Technology"
+  },
+  "0317": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0317",
+    "field_of_education_narrow_name": "Maritime Engineering and Technology"
+  },
+  "0399": {
+    "field_of_education_broad_code": "03",
+    "field_of_education_broad_name": "ENGINEERING AND RELATED TECHNOLOGIES",
+    "field_of_education_narrow_code": "0399",
+    "field_of_education_narrow_name": "Other Engineering and Related Technologies"
+  },
+  "0401": {
+    "field_of_education_broad_code": "04",
+    "field_of_education_broad_name": "ARCHITECTURE AND BUILDING",
+    "field_of_education_narrow_code": "0401",
+    "field_of_education_narrow_name": "Architecture and Urban Environment"
+  },
+  "0403": {
+    "field_of_education_broad_code": "04",
+    "field_of_education_broad_name": "ARCHITECTURE AND BUILDING",
+    "field_of_education_narrow_code": "0403",
+    "field_of_education_narrow_name": "Building"
+  },
+  "0501": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",
+    "field_of_education_narrow_code": "0501",
+    "field_of_education_narrow_name": "Agriculture"
+  },
+  "0503": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",
+    "field_of_education_narrow_code": "0503",
+    "field_of_education_narrow_name": "Horticulture and Viticulture"
+  },
+  "0505": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",
+    "field_of_education_narrow_code": "0505",
+    "field_of_education_narrow_name": "Forestry Studies"
+  },
+  "0507": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",
+    "field_of_education_narrow_code": "0507",
+    "field_of_education_narrow_name": "Fisheries Studies"
+  },
+  "0509": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",
+    "field_of_education_narrow_code": "0509",
+    "field_of_education_narrow_name": "Environmental Studies"
+  },
+  "0599": {
+    "field_of_education_broad_code": "05",
+    "field_of_education_broad_name": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",
+    "field_of_education_narrow_code": "0599",
+    "field_of_education_narrow_name": "Other Agriculture, Environmental and Related Studies"
+  },
+  "0601": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0601",
+    "field_of_education_narrow_name": "Medical Studies"
+  },
+  "0603": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0603",
+    "field_of_education_narrow_name": "Nursing"
+  },
+  "0605": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0605",
+    "field_of_education_narrow_name": "Pharmacy"
+  },
+  "0607": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0607",
+    "field_of_education_narrow_name": "Dental Studies"
+  },
+  "0609": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0609",
+    "field_of_education_narrow_name": "Optical Science"
+  },
+  "0611": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0611",
+    "field_of_education_narrow_name": "Veterinary Studies"
+  },
+  "0613": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0613",
+    "field_of_education_narrow_name": "Public Health"
+  },
+  "0615": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0615",
+    "field_of_education_narrow_name": "Radiography"
+  },
+  "0617": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0617",
+    "field_of_education_narrow_name": "Rehabilitation Therapies"
+  },
+  "0619": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0619",
+    "field_of_education_narrow_name": "Complementary Therapies"
+  },
+  "0699": {
+    "field_of_education_broad_code": "06",
+    "field_of_education_broad_name": "HEALTH",
+    "field_of_education_narrow_code": "0699",
+    "field_of_education_narrow_name": "Other Health"
+  },
+  "0701": {
+    "field_of_education_broad_code": "07",
+    "field_of_education_broad_name": "EDUCATION",
+    "field_of_education_narrow_code": "0701",
+    "field_of_education_narrow_name": "Teacher Education"
+  },
+  "0703": {
+    "field_of_education_broad_code": "07",
+    "field_of_education_broad_name": "EDUCATION",
+    "field_of_education_narrow_code": "0703",
+    "field_of_education_narrow_name": "Curriculum and Education Studies"
+  },
+  "0799": {
+    "field_of_education_broad_code": "07",
+    "field_of_education_broad_name": "EDUCATION",
+    "field_of_education_narrow_code": "0799",
+    "field_of_education_narrow_name": "Other Education"
+  },
+  "0801": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0801",
+    "field_of_education_narrow_name": "Accounting"
+  },
+  "0803": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0803",
+    "field_of_education_narrow_name": "Business and Management"
+  },
+  "0805": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0805",
+    "field_of_education_narrow_name": "Sales and Marketing"
+  },
+  "0807": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0807",
+    "field_of_education_narrow_name": "Tourism"
+  },
+  "0809": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0809",
+    "field_of_education_narrow_name": "Office Studies"
+  },
+  "0811": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0811",
+    "field_of_education_narrow_name": "Banking, Finance and Related Fields"
+  },
+  "0899": {
+    "field_of_education_broad_code": "08",
+    "field_of_education_broad_name": "MANAGEMENT AND COMMERCE",
+    "field_of_education_narrow_code": "0899",
+    "field_of_education_narrow_name": "Other Management and Commerce"
+  },
+  "0901": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0901",
+    "field_of_education_narrow_name": "Political Science and Policy Studies"
+  },
+  "0903": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0903",
+    "field_of_education_narrow_name": "Studies in Human Society"
+  },
+  "0905": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0905",
+    "field_of_education_narrow_name": "Human Welfare Studies and Services"
+  },
+  "0907": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0907",
+    "field_of_education_narrow_name": "Behavioural Science"
+  },
+  "0909": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0909",
+    "field_of_education_narrow_name": "Law"
+  },
+  "0911": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0911",
+    "field_of_education_narrow_name": "Justice and Law Enforcement"
+  },
+  "0913": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0913",
+    "field_of_education_narrow_name": "Librarianship, Information Management and Curatorial Studies"
+  },
+  "0915": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0915",
+    "field_of_education_narrow_name": "Language and Literature"
+  },
+  "0917": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0917",
+    "field_of_education_narrow_name": "Philosophy and Religious Studies"
+  },
+  "0919": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0919",
+    "field_of_education_narrow_name": "Economics and Econometrics"
+  },
+  "0921": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0921",
+    "field_of_education_narrow_name": "Sport and Recreation"
+  },
+  "0999": {
+    "field_of_education_broad_code": "09",
+    "field_of_education_broad_name": "SOCIETY AND CULTURE",
+    "field_of_education_narrow_code": "0999",
+    "field_of_education_narrow_name": "Other Society and Culture"
+  },
+  "1001": {
+    "field_of_education_broad_code": "10",
+    "field_of_education_broad_name": "CREATIVE ARTS",
+    "field_of_education_narrow_code": "1001",
+    "field_of_education_narrow_name": "Performing Arts"
+  },
+  "1003": {
+    "field_of_education_broad_code": "10",
+    "field_of_education_broad_name": "CREATIVE ARTS",
+    "field_of_education_narrow_code": "1003",
+    "field_of_education_narrow_name": "Visual Arts and Crafts"
+  },
+  "1005": {
+    "field_of_education_broad_code": "10",
+    "field_of_education_broad_name": "CREATIVE ARTS",
+    "field_of_education_narrow_code": "1005",
+    "field_of_education_narrow_name": "Graphic and Design Studies"
+  },
+  "1007": {
+    "field_of_education_broad_code": "10",
+    "field_of_education_broad_name": "CREATIVE ARTS",
+    "field_of_education_narrow_code": "1007",
+    "field_of_education_narrow_name": "Communication and Media Studies"
+  },
+  "1099": {
+    "field_of_education_broad_code": "10",
+    "field_of_education_broad_name": "CREATIVE ARTS",
+    "field_of_education_narrow_code": "1099",
+    "field_of_education_narrow_name": "Other Creative Arts"
+  },
+  "1101": {
+    "field_of_education_broad_code": "11",
+    "field_of_education_broad_name": "FOOD, HOSPITALITY AND PERSONAL SERVICES",
+    "field_of_education_narrow_code": "1101",
+    "field_of_education_narrow_name": "Food and Hospitality"
+  },
+  "1103": {
+    "field_of_education_broad_code": "11",
+    "field_of_education_broad_name": "FOOD, HOSPITALITY AND PERSONAL SERVICES",
+    "field_of_education_narrow_code": "1103",
+    "field_of_education_narrow_name": "Personal Services"
+  },
+  "1201": {
+    "field_of_education_broad_code": "12",
+    "field_of_education_broad_name": "MIXED FIELD PROGRAMMES",
+    "field_of_education_narrow_code": "1201",
+    "field_of_education_narrow_name": "General Education Programmes"
+  },
+  "1203": {
+    "field_of_education_broad_code": "12",
+    "field_of_education_broad_name": "MIXED FIELD PROGRAMMES",
+    "field_of_education_narrow_code": "1203",
+    "field_of_education_narrow_name": "Social Skills Programmes"
+  },
+  "1205": {
+    "field_of_education_broad_code": "12",
+    "field_of_education_broad_name": "MIXED FIELD PROGRAMMES",
+    "field_of_education_narrow_code": "1205",
+    "field_of_education_narrow_name": "Employment Skills Programmes"
+  },
+  "1299": {
+    "field_of_education_broad_code": "12",
+    "field_of_education_broad_name": "MIXED FIELD PROGRAMMES",
+    "field_of_education_narrow_code": "1299",
+    "field_of_education_narrow_name": "Other Mixed Field Programmes"
+  }
+}
