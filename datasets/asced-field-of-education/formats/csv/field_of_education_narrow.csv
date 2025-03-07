@@ -1,0 +1,72 @@
+field_of_education_broad_code,field_of_education_broad_name,field_of_education_narrow_code,field_of_education_narrow_name
+01,NATURAL AND PHYSICAL SCIENCES,0101,Mathematical Sciences
+01,NATURAL AND PHYSICAL SCIENCES,0103,Physics and Astronomy
+01,NATURAL AND PHYSICAL SCIENCES,0105,Chemical Sciences
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences
+02,INFORMATION TECHNOLOGY,0201,Computer Science
+02,INFORMATION TECHNOLOGY,0203,Information Systems
+02,INFORMATION TECHNOLOGY,0299,Other Information Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0303,Process and Resources Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0311,Geomatic Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0315,Aerospace Engineering and Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0317,Maritime Engineering and Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies
+04,ARCHITECTURE AND BUILDING,0401,Architecture and Urban Environment
+04,ARCHITECTURE AND BUILDING,0403,Building
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0501,Agriculture
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0503,Horticulture and Viticulture
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0505,Forestry Studies
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0507,Fisheries Studies
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0509,Environmental Studies
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0599,"Other Agriculture, Environmental and Related Studies"
+06,HEALTH,0601,Medical Studies
+06,HEALTH,0603,Nursing
+06,HEALTH,0605,Pharmacy
+06,HEALTH,0607,Dental Studies
+06,HEALTH,0609,Optical Science
+06,HEALTH,0611,Veterinary Studies
+06,HEALTH,0613,Public Health
+06,HEALTH,0615,Radiography
+06,HEALTH,0617,Rehabilitation Therapies
+06,HEALTH,0619,Complementary Therapies
+06,HEALTH,0699,Other Health
+07,EDUCATION,0701,Teacher Education
+07,EDUCATION,0703,Curriculum and Education Studies
+07,EDUCATION,0799,Other Education
+08,MANAGEMENT AND COMMERCE,0801,Accounting
+08,MANAGEMENT AND COMMERCE,0803,Business and Management
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing
+08,MANAGEMENT AND COMMERCE,0807,Tourism
+08,MANAGEMENT AND COMMERCE,0809,Office Studies
+08,MANAGEMENT AND COMMERCE,0811,"Banking, Finance and Related Fields"
+08,MANAGEMENT AND COMMERCE,0899,Other Management and Commerce
+09,SOCIETY AND CULTURE,0901,Political Science and Policy Studies
+09,SOCIETY AND CULTURE,0903,Studies in Human Society
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services
+09,SOCIETY AND CULTURE,0907,Behavioural Science
+09,SOCIETY AND CULTURE,0909,Law
+09,SOCIETY AND CULTURE,0911,Justice and Law Enforcement
+09,SOCIETY AND CULTURE,0913,"Librarianship, Information Management and Curatorial Studies"
+09,SOCIETY AND CULTURE,0915,Language and Literature
+09,SOCIETY AND CULTURE,0917,Philosophy and Religious Studies
+09,SOCIETY AND CULTURE,0919,Economics and Econometrics
+09,SOCIETY AND CULTURE,0921,Sport and Recreation
+09,SOCIETY AND CULTURE,0999,Other Society and Culture
+10,,1001,Performing Arts
+10,,1003,Visual Arts and Crafts
+10,,1005,Graphic and Design Studies
+10,,1007,Communication and Media Studies
+10,,1099,Other Creative Arts
+11,,1101,Food and Hospitality
+11,,1103,Personal Services
+12,,1201,General Education Programmes
+12,,1203,Social Skills Programmes
+12,,1205,Employment Skills Programmes
+12,,1299,Other Mixed Field Programmes
