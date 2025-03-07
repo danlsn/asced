@@ -11,3 +11,8 @@ ASCED comprises two classifications: Level of Education and Field of Education. 
 In designing ASCED, the need for a classification which catered for the requirements of all sectors of the Australian education system was the primary consideration. An additional consideration was the desirability for ASCED to be broadly comparable with the relevant international standard, the International Standard Classification of Education (ISCED).
 
 These introductory chapters provide an overview of the conceptual basis and structure of ASCED, describe the ASCED code structure, and outline the format of the ASCED Level of Education and Field of Education definitions.
+
+## Source
+
+Australian Bureau of Statistics (2001), Australian Standard Classification of Education (ASCED), ABS
+Website, accessed 7 March 2025.
