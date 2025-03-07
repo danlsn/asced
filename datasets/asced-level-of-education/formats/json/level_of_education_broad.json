@@ -1,0 +1,38 @@
+{
+  "1": {
+    "level_of_education_broad_code": "1",
+    "level_of_education_broad_name": "POSTGRADUATE DEGREE LEVEL"
+  },
+  "2": {
+    "level_of_education_broad_code": "2",
+    "level_of_education_broad_name": "GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL"
+  },
+  "3": {
+    "level_of_education_broad_code": "3",
+    "level_of_education_broad_name": "BACHELOR DEGREE LEVEL"
+  },
+  "4": {
+    "level_of_education_broad_code": "4",
+    "level_of_education_broad_name": "ADVANCED DIPLOMA AND DIPLOMA LEVEL"
+  },
+  "5": {
+    "level_of_education_broad_code": "5",
+    "level_of_education_broad_name": "CERTIFICATE LEVEL"
+  },
+  "6": {
+    "level_of_education_broad_code": "6",
+    "level_of_education_broad_name": "SECONDARY EDUCATION"
+  },
+  "7": {
+    "level_of_education_broad_code": "7",
+    "level_of_education_broad_name": "PRIMARY EDUCATION"
+  },
+  "8": {
+    "level_of_education_broad_code": "8",
+    "level_of_education_broad_name": "PRE-PRIMARY EDUCATION"
+  },
+  "9": {
+    "level_of_education_broad_code": "9",
+    "level_of_education_broad_name": "OTHER EDUCATION"
+  }
+}

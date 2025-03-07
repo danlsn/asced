@@ -1,0 +1,16 @@
+level_of_education_broad_code,level_of_education_broad_name,level_of_education_narrow_code,level_of_education_narrow_name
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level
+1,POSTGRADUATE DEGREE LEVEL,12,Master Degree Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,21,Graduate Diploma Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,22,Graduate Certificate Level
+3,BACHELOR DEGREE LEVEL,31,Bachelor Degree Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,41,Advanced Diploma and Associate Degree Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,42,Diploma Level
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level
+5,CERTIFICATE LEVEL,52,Certificate I & II Level
+6,SECONDARY EDUCATION,61,Senior Secondary Education
+6,SECONDARY EDUCATION,62,Junior Secondary Education
+7,PRIMARY EDUCATION,71,Primary Education
+8,PRE-PRIMARY EDUCATION,81,Pre-primary Education
+9,OTHER EDUCATION,91,Non-award Courses
+9,OTHER EDUCATION,99,Miscellaneous Education

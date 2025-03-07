@@ -1,0 +1,92 @@
+{
+  "11": {
+    "level_of_education_broad_code": "1",
+    "level_of_education_broad_name": "POSTGRADUATE DEGREE LEVEL",
+    "level_of_education_narrow_code": "11",
+    "level_of_education_narrow_name": "Doctoral Degree Level"
+  },
+  "12": {
+    "level_of_education_broad_code": "1",
+    "level_of_education_broad_name": "POSTGRADUATE DEGREE LEVEL",
+    "level_of_education_narrow_code": "12",
+    "level_of_education_narrow_name": "Master Degree Level"
+  },
+  "21": {
+    "level_of_education_broad_code": "2",
+    "level_of_education_broad_name": "GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL",
+    "level_of_education_narrow_code": "21",
+    "level_of_education_narrow_name": "Graduate Diploma Level"
+  },
+  "22": {
+    "level_of_education_broad_code": "2",
+    "level_of_education_broad_name": "GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL",
+    "level_of_education_narrow_code": "22",
+    "level_of_education_narrow_name": "Graduate Certificate Level"
+  },
+  "31": {
+    "level_of_education_broad_code": "3",
+    "level_of_education_broad_name": "BACHELOR DEGREE LEVEL",
+    "level_of_education_narrow_code": "31",
+    "level_of_education_narrow_name": "Bachelor Degree Level"
+  },
+  "41": {
+    "level_of_education_broad_code": "4",
+    "level_of_education_broad_name": "ADVANCED DIPLOMA AND DIPLOMA LEVEL",
+    "level_of_education_narrow_code": "41",
+    "level_of_education_narrow_name": "Advanced Diploma and Associate Degree Level"
+  },
+  "42": {
+    "level_of_education_broad_code": "4",
+    "level_of_education_broad_name": "ADVANCED DIPLOMA AND DIPLOMA LEVEL",
+    "level_of_education_narrow_code": "42",
+    "level_of_education_narrow_name": "Diploma Level"
+  },
+  "51": {
+    "level_of_education_broad_code": "5",
+    "level_of_education_broad_name": "CERTIFICATE LEVEL",
+    "level_of_education_narrow_code": "51",
+    "level_of_education_narrow_name": "Certificate III & IV Level"
+  },
+  "52": {
+    "level_of_education_broad_code": "5",
+    "level_of_education_broad_name": "CERTIFICATE LEVEL",
+    "level_of_education_narrow_code": "52",
+    "level_of_education_narrow_name": "Certificate I & II Level"
+  },
+  "61": {
+    "level_of_education_broad_code": "6",
+    "level_of_education_broad_name": "SECONDARY EDUCATION",
+    "level_of_education_narrow_code": "61",
+    "level_of_education_narrow_name": "Senior Secondary Education"
+  },
+  "62": {
+    "level_of_education_broad_code": "6",
+    "level_of_education_broad_name": "SECONDARY EDUCATION",
+    "level_of_education_narrow_code": "62",
+    "level_of_education_narrow_name": "Junior Secondary Education"
+  },
+  "71": {
+    "level_of_education_broad_code": "7",
+    "level_of_education_broad_name": "PRIMARY EDUCATION",
+    "level_of_education_narrow_code": "71",
+    "level_of_education_narrow_name": "Primary Education"
+  },
+  "81": {
+    "level_of_education_broad_code": "8",
+    "level_of_education_broad_name": "PRE-PRIMARY EDUCATION",
+    "level_of_education_narrow_code": "81",
+    "level_of_education_narrow_name": "Pre-primary Education"
+  },
+  "91": {
+    "level_of_education_broad_code": "9",
+    "level_of_education_broad_name": "OTHER EDUCATION",
+    "level_of_education_narrow_code": "91",
+    "level_of_education_narrow_name": "Non-award Courses"
+  },
+  "99": {
+    "level_of_education_broad_code": "9",
+    "level_of_education_broad_name": "OTHER EDUCATION",
+    "level_of_education_narrow_code": "99",
+    "level_of_education_narrow_name": "Miscellaneous Education"
+  }
+}
