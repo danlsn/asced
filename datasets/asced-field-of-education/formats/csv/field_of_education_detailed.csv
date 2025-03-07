@@ -312,46 +312,46 @@ field_of_education_broad_code,field_of_education_broad_name,field_of_education_n
 09,SOCIETY AND CULTURE,0999,Other Society and Culture,099903,Criminology
 09,SOCIETY AND CULTURE,0999,Other Society and Culture,099905,Security Services
 09,SOCIETY AND CULTURE,0999,Other Society and Culture,099999,"Society and Culture, n.e.c."
-10,,1001,,100101,Music
-10,,1001,,100103,Drama and Theatre Studies
-10,,1001,,100105,Dance
-10,,1001,,100199,"Performing Arts, n.e.c."
-10,,1003,,100301,Fine Arts
-10,,1003,,100303,Photography
-10,,1003,,100305,Crafts
-10,,1003,,100307,Jewellery Making
-10,,1003,,100309,Floristry
-10,,1003,,100399,"Visual Arts and Crafts, n.e.c."
-10,,1005,,100501,Graphic Arts and Design Studies
-10,,1005,,100503,Textile Design
-10,,1005,,100505,Fashion Design
-10,,1005,,100599,"Graphic and Design Studies, n.e.c."
-10,,1007,,100701,Audio Visual Studies
-10,,1007,,100703,Journalism
-10,,1007,,100705,Written Communication
-10,,1007,,100707,Verbal Communication
-10,,1007,,100799,"Communication and Media Studies, n.e.c."
-10,,1099,,109999,"Creative Arts, n.e.c."
-11,,1101,,110101,Hospitality
-11,,1101,,110103,Food and Beverage Service
-11,,1101,,110105,Butchery
-11,,1101,,110107,Baking and Pastrymaking
-11,,1101,,110109,Cookery
-11,,1101,,110111,Food Hygiene
-11,,1101,,110199,"Food and Hospitality, n.e.c."
-11,,1103,,110301,Beauty Therapy
-11,,1103,,110303,Hairdressing
-11,,1103,,110399,"Personal Services, n.e.c."
-12,,1201,,120101,General Primary and Secondary Education Programmes
-12,,1201,,120103,Literacy and Numeracy Programmes
-12,,1201,,120105,Learning Skills Programmes
-12,,1201,,120199,"General Education Programmes, n.e.c."
-12,,1203,,120301,Social and Interpersonal Skills Programmes
-12,,1203,,120303,Survival Skills Programmes
-12,,1203,,120305,Parental Education Programmes
-12,,1203,,120399,"Social Skills Programmes, n.e.c."
-12,,1205,,120501,Career Development Programmes
-12,,1205,,120503,Job Search Skills Programmes
-12,,1205,,120505,Work Practices Programmes
-12,,1205,,120599,"Employment Skills Programmes, n.e.c."
-12,,1299,,129999,"Mixed Field Programmes, n.e.c."
+10,CREATIVE ARTS,1001,Performing Arts,100101,Music
+10,CREATIVE ARTS,1001,Performing Arts,100103,Drama and Theatre Studies
+10,CREATIVE ARTS,1001,Performing Arts,100105,Dance
+10,CREATIVE ARTS,1001,Performing Arts,100199,"Performing Arts, n.e.c."
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100301,Fine Arts
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100303,Photography
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100305,Crafts
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100307,Jewellery Making
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100309,Floristry
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100399,"Visual Arts and Crafts, n.e.c."
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100501,Graphic Arts and Design Studies
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100503,Textile Design
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100505,Fashion Design
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100599,"Graphic and Design Studies, n.e.c."
+10,CREATIVE ARTS,1007,Communication and Media Studies,100701,Audio Visual Studies
+10,CREATIVE ARTS,1007,Communication and Media Studies,100703,Journalism
+10,CREATIVE ARTS,1007,Communication and Media Studies,100705,Written Communication
+10,CREATIVE ARTS,1007,Communication and Media Studies,100707,Verbal Communication
+10,CREATIVE ARTS,1007,Communication and Media Studies,100799,"Communication and Media Studies, n.e.c."
+10,CREATIVE ARTS,1099,Other Creative Arts,109999,"Creative Arts, n.e.c."
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110101,Hospitality
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110103,Food and Beverage Service
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110105,Butchery
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110107,Baking and Pastrymaking
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110109,Cookery
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110111,Food Hygiene
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110199,"Food and Hospitality, n.e.c."
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services,110301,Beauty Therapy
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services,110303,Hairdressing
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services,110399,"Personal Services, n.e.c."
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120101,General Primary and Secondary Education Programmes
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120103,Literacy and Numeracy Programmes
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120105,Learning Skills Programmes
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120199,"General Education Programmes, n.e.c."
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120301,Social and Interpersonal Skills Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120303,Survival Skills Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120305,Parental Education Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120399,"Social Skills Programmes, n.e.c."
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120501,Career Development Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120503,Job Search Skills Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120505,Work Practices Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120599,"Employment Skills Programmes, n.e.c."
+12,MIXED FIELD PROGRAMMES,1299,Other Mixed Field Programmes,129999,"Mixed Field Programmes, n.e.c."

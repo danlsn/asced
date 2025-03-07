@@ -59,14 +59,14 @@ field_of_education_broad_code,field_of_education_broad_name,field_of_education_n
 09,SOCIETY AND CULTURE,0919,Economics and Econometrics
 09,SOCIETY AND CULTURE,0921,Sport and Recreation
 09,SOCIETY AND CULTURE,0999,Other Society and Culture
-10,,1001,Performing Arts
-10,,1003,Visual Arts and Crafts
-10,,1005,Graphic and Design Studies
-10,,1007,Communication and Media Studies
-10,,1099,Other Creative Arts
-11,,1101,Food and Hospitality
-11,,1103,Personal Services
-12,,1201,General Education Programmes
-12,,1203,Social Skills Programmes
-12,,1205,Employment Skills Programmes
-12,,1299,Other Mixed Field Programmes
+10,CREATIVE ARTS,1001,Performing Arts
+10,CREATIVE ARTS,1003,Visual Arts and Crafts
+10,CREATIVE ARTS,1005,Graphic and Design Studies
+10,CREATIVE ARTS,1007,Communication and Media Studies
+10,CREATIVE ARTS,1099,Other Creative Arts
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes
+12,MIXED FIELD PROGRAMMES,1299,Other Mixed Field Programmes
