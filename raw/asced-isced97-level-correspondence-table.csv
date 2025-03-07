@@ -1,0 +1,18 @@
+"ASCED Level",,"ISCED Level",
+"9","Other Education","-","No correspondence."
+"8","Pre-Primary Education","0","Pre-primary education."
+"7","Primary Education","1","Primary education or first stage of basic education."
+"62","Junior Secondary Education","2A","Programmes designed to prepare students for direct access to ISCED 3A or 3B which are the subcategories of Level 3 earmarked for providing access to tertiary education."
+"61","Senior Secondary Education","3A","Programmes designed to provide direct access to ISCED 5A, which is the type of tertiary education that enables the students to gain entry into advanced research or highly skilled professions."
+"524-525","Certificate I Level","2C","Programmes that are 'terminal' and are primarily meant to provide direct access to the labour market."
+"521-523","Certificate II Level","2C","Programmes that are 'terminal' and are primarily meant to provide direct access to the labour market."
+"514-516","Certificate III Level","3C","Programmes designed to lead directly to the labour market or entry into ISCED level 4 programmes or even other ISCED level 3 programmes."
+"511-513","Certificate IV Level","4B","Programmes that do not provide access to tertiary education (ISCED 5A or 5B), but are designed primarily for direct entry into the labour market."
+"42","Diploma Level","5B","Programmes which are practical/technical/occupationally specific."
+"41","Advanced Diploma and Associate Degree Level","5B","Programmes which are practical/technical/occupationally specific."
+"3","Bachelor Degree Level","5A","Programmes which are largely theoretically based/research preparatoy or which provide access to professions with high skills requirements."
+"2","Graduate Diploma and Graduate Certificate Level","5A","Programmes which are largely theoretically based/research preparatoy or which provide access to professions with high skills requirements."
+"12","Master Degree Level","5A","Programmes which are largely theoretically based/research preparatoy or which provide access to professions with high skills requirements"
+"11","Doctoral Degree Level","6","Second stage of tertiary education (leading to an advanced research qualification)"
+
+"Source: Australian Bureau of Statistics, ASCED - ISCED97 Level Correspondence Table 2001"
